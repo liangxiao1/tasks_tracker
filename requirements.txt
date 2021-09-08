@@ -21,7 +21,7 @@ marshmallow==2.19.5
 marshmallow-enum==1.5.1
 marshmallow-sqlalchemy==0.19.0
 more-itertools==7.2.0
-Pillow==6.2.2
+Pillow==8.3.2
 Pillow-PIL==0.1.dev0
 prison==0.1.2
 PyJWT==1.7.1
